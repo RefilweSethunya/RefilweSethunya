@@ -5,8 +5,8 @@
 This space is where I learn out loud. Documenting labs, notes, experiments, and tiny wins that shape my cloud and cybersecurity journey.
 
 Here you will find:<br>
-☁️ My hands-on cloud & security projects  
-📚 Transparent documentation of learning
+☁️ My hands-on cloud & security projects<br>  
+📚 Transparent documentation of learning<br>
 🌸 Progress over perfection  
-
-✨ Curious? Start with my very first repo — [right here]([https://github.com/USERNAME/REPO-NAME](https://github.com/RefilweSethunya/My-AWS-re-Start-Journey-2025)).
+<br>
+✨ Curious? Start with my very first repo — [right here]([https://github.com/RefilweSethunya/My-AWS-re-Start-Journey-2025])).
