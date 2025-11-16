@@ -2,7 +2,7 @@
 
 ## Cloud, Security & Controlled Chaos 👩🏽‍🚒
 
-This space is where I learn out loud. Documenting labs, notes, experiments, and wins that shape my cloud and cybersecurity journey.
+This space is where I learn out loud.
 
 Here you will find:<br>
 ☁️ My hands-on cloud & security projects  
