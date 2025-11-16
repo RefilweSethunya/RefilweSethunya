@@ -9,4 +9,4 @@ Here you will find:<br>
 📚 Transparent documentation of learning
 🌸 Progress over perfection  
 
-✨ Curious? Start with my very first repo — [right here]([https://github.com/USERNAME/REPO-NAME](https://github.com/RefilweSethunya/My-AWS-re-Start-Journey-2025).
+✨ Curious? Start with my very first repo — [right here]([https://github.com/USERNAME/REPO-NAME](https://github.com/RefilweSethunya/My-AWS-re-Start-Journey-2025)).
