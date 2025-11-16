@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/e6c54a68-107b-4e97-8086-f1a8149232bc" width="900" height="430"/>
+<img src="https://github.com/user-attachments/assets/e6c54a68-107b-4e97-8086-f1a8149232bc" />
 
 ## Cloud, Security & Controlled Chaos 👩🏽‍🚒
 
