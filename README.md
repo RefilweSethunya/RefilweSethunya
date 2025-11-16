@@ -6,7 +6,7 @@ This space is where I learn out loud. Documenting labs, notes, experiments, and 
 
 I build things, break things, secure them, and sometimes rebuild them with better intention (and better coffee ☕️).
 
-You will find:
+You will find:<br>
 ☁️ Hands-on cloud & security projects  
 📚 Transparent documentation and learning-in-public  
 🌸 Progress over perfection  
